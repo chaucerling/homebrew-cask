@@ -8,5 +8,7 @@ cask 'spechtlite' do
   name 'SpechtLite'
   homepage 'https://github.com/zhuhaow/SpechtLite'
 
+  auto_updates true
+
   app 'SpechtLite.app'
 end
